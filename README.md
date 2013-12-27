@@ -4,7 +4,7 @@ stackoverflow_kbd_tag_wordpress
 
 Stackoverflow-like kbd tag Plugin for wordpress.
 
-   This plugin makes your <kbd> tag look like stackoverflow.com's.
+   This plugin makes your kbd tag look like stackoverflow.com's.
 I also implement TinyMCE plugin which help you surround your character (or text) 
 using a single button.
 
